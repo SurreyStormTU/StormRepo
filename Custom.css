@@ -1,0 +1,36 @@
+.bottomOptions .pageOptions, .extendedOptions.item {
+    background: #000;
+}
+
+.bottomOptions .pageOptions a, .extendedOptions.item a {
+    color: #fff;
+    display: inline-block;
+}
+
+.noEntry {
+    color: #fff;
+    border-top: solid 1px #000;
+    background-color: #000;
+}
+
+.theme-nav-style-slide .theme-search-submit {
+    color: #fff;
+    border: 1px solid #000;
+    background: #000;
+}
+
+.sponsorElement .description .goToLink {
+    color: #fff;
+	background-color: #000;
+    border: 1px solid #000;
+	 color: #fff;
+}
+
+#siteFooter {
+    background: #000;
+	color: #fff;
+}
+
+#poweredByNGIN {
+	display: none;
+}
